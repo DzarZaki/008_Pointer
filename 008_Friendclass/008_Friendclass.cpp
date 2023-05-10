@@ -35,5 +35,6 @@ int main()
 {
 	orang o;
 	o.setNama("Joko kumat"); 
+	siswa s;
 }
 	
