@@ -37,5 +37,6 @@ int main()
 	o.setNama("Joko kumat"); 
 	siswa s;
 	s.setId(1); 
+	s.displayAll(o); 
 }
 	
