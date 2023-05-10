@@ -19,4 +19,5 @@ int main()
 	setNama(mhs, "Joko Kumat");
 	cout << endl; 
 	system("pause"); 
+	return 0;
 }
