@@ -24,3 +24,4 @@ void manusia::showNilaiPelajar(pelajar& x) {
 int main()
 {
 	manusia m; 
+	pelajar p; 
