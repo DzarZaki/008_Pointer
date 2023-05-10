@@ -14,3 +14,6 @@ void setNama(mahasiswa& a, string pNama) {
 	cout << "Nama: " << a.nama;
 }
 int main()
+{
+	mahasiswa mhs; 
+}
