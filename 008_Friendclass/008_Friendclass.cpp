@@ -32,3 +32,8 @@ void orang::setNama(string pNama) {
 }
 
 int main()
+{
+	orang o;
+
+}
+	
