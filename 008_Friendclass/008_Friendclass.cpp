@@ -24,3 +24,5 @@ void siswa::displayAll(orang& a) {
 }
 
 void siswa::setId(int pId) {
+	id = pId;
+}
