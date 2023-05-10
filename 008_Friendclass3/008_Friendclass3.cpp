@@ -26,3 +26,4 @@ int main()
 	manusia m; 
 	pelajar p; 
 	m.showNilaiPelajar(p); 
+	cout << endl; 
