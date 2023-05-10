@@ -40,6 +40,6 @@ int main()
 	s.displayAll(o); 
 	cout << endl; 
 	system("pause");
-	
+	return 0; 
 }
 	
